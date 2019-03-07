@@ -1,4 +1,4 @@
-# RMI-based-Election-proce
+# RMI-based-Election-process
 Remote method Invocation based program that simulates an Election process. Here Hello is the remote interface. The program basically follow these steps.
 
 1. The register voter methods should take as parameters a name, and assign a voter ID from a list of
